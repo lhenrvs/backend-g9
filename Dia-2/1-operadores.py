@@ -58,3 +58,8 @@ print(numero1)
 print(numero1 == numero2)
 print(type(numero1)== type(numero2))
 
+# MAYOR | MAYOR QUE
+print(10>9.58)
+print(10 > int('5'))
+print(50 >= 30)
+
