@@ -63,3 +63,7 @@ print(10>9.58)
 print(10 > int('5'))
 print(50 >= 30)
 
+# MENOR | MMENOR QUE
+print(50 < 80)
+print(50 <= 50)
+# nota: siempre va el simbolo de mayor (>) o menor(<) antes del igual, nunca al revez porque si no python entiende que se esta tratando de una asiganción.
